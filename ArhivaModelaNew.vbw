@@ -1,0 +1,16 @@
+frmGlavni = 70, 30, 868, 550, , 22, 22, 433, 286, C
+frmTrazenje = 88, 88, 499, 352, C, 66, 66, 477, 330, C
+frmEditModel = 88, 88, 499, 352, C, 44, 44, 455, 308, C
+modGlavni = 110, 110, 792, 577, Z
+frmPrikaz = 88, 88, 499, 352, C, 66, 66, 477, 330, C
+frmPopravakImenaDobavljaca = 44, 44, 455, 308, C, 88, 88, 499, 352, C
+frmReplaceString = 44, 44, 455, 308, C, 22, 22, 433, 286, C
+frmPrint = 0, 0, 411, 264, C, 110, 110, 521, 374, C
+frmPicPreview = 0, 0, 874, 536, C, 66, 66, 477, 330, C
+CPrintItem = 0, 0, 411, 264, C
+frmSplash = 22, 22, 433, 281, C, 0, 0, 411, 259, C
+BrowseForFolder = 66, 66, 445, 324, 
+clsJPEGparser = 22, 22, 445, 292, C
+frmStanje = 17, 3, 872, 491, , 0, 0, 855, 488, C
+frmImport = 66, 87, 1011, 520, C, 44, 58, 989, 491, C
+frmObjekat = 22, 29, 905, 383, , 132, 174, 1015, 528, C

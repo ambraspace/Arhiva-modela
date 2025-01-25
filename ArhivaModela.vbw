@@ -1,0 +1,12 @@
+frmGlavni = 44, 44, 465, 322, Z, 22, 22, 443, 300, C
+frmTrazenje = 66, 66, 487, 344, C, 110, 110, 531, 388, C
+frmEditModel = 44, 44, 562, 323, C, 0, 0, 421, 278, C
+modGlavni = 0, 0, 421, 279, 
+CImageInfo = 0, 0, 518, 279, C
+frmPrikaz = 110, 110, 533, 389, , 88, 88, 511, 367, C
+CModel = 22, 22, 445, 301, 
+frmPopravakImenaDobavljaca = 22, 22, 442, 299, , 66, 66, 486, 343, C
+frmReplaceString = 110, 110, 530, 387, , 88, 88, 508, 365, C
+frmPrint = 110, 110, 521, 374, , 88, 88, 499, 342, C
+frmPicPreview = 0, 0, 411, 264, , 110, 110, 521, 374, C
+CPrintItem = 110, 110, 521, 374, 

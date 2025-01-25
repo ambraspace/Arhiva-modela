@@ -1,0 +1,148 @@
+[Root]
+Most Recent Package=Arhiva modela
+
+[Package|Arhiva modela|$(Programs)]
+Icon1="Arhiva modela.exe"
+Title1=Arhiva modela
+StartIn1=$(AppPath)
+Key1=Icon3
+
+
+[Package|Arhiva modela|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\Package
+
+[Package|Arhiva modela|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Arhiva modela|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Arhiva modela|Files Found]
+
+[Package|Arhiva modela|Files Released]
+
+[Package|Arhiva modela|Missing Dependency Information]
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=
+C:\Program Files\Common Files\System\ado\msado25.tlb=
+Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\Arhiva modela.exe=
+
+[Package|Arhiva modela|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMDLG32.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Arhiva modela|Files Added]
+Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\Arhiva modela.exe=
+Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\pic\p2.jpg=
+Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\settings.ini=
+Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\ARHIVA.MDB=
+
+[Package|Arhiva modela|Files Removed]
+y:\documents\win dokumenti\moji vb primjeri\arhiva modela\pic\p2.jpg=
+
+[Package|Arhiva modela|Files In Project]
+Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\Arhiva modela RO.exe=Yes
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINDOWS\system32\msjet40.dll=Yes
+C:\WINDOWS\system32\msjter40.dll=Yes
+C:\WINDOWS\system32\msjint40.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\mswstr10.dll=Yes
+C:\WINDOWS\system32\mswdat10.dll=Yes
+C:\WINDOWS\system32\msrd2x40.dll=Yes
+C:\WINDOWS\system32\msrd3x40.dll=Yes
+C:\WINDOWS\system32\msrepl40.dll=Yes
+C:\WINDOWS\system32\msjtes40.dll=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado25.tlb=Yes
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\Arhiva modela.exe=Yes
+Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\pic\p2.jpg=No
+Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\settings.ini=Yes
+Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\ARHIVA.MDB=Yes
+
+[Package|Arhiva modela|Configure Registry Files]
+Applicable=No
+
+[Package|Arhiva modela|Configure Remote Servers]
+Applicable=No
+
+[Package|Arhiva modela|Install Locations]
+Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\Arhiva modela RO.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINDOWS\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado25.tlb=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office12\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\Arhiva modela.exe=$(AppPath)
+Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\settings.ini=$(AppPath)
+Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\ARHIVA.MDB=$(AppPath)
+
+[Package|Arhiva modela|Configure Shared Files]
+Applicable=Yes
+Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\Arhiva modela RO.exe=No
+Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\Arhiva modela.exe=No
+Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\settings.ini=No
+Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\ARHIVA.MDB=No
+
+[Package|Arhiva modela|Distribution]
+Type=single
+Size=
+Title=Arhiva Modela
+
+[Package|Arhiva modela|IconGroups]
+Group0=Arhiva Modela
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Arhiva modela|Arhiva Modela]
+Icon1="Arhiva modela RO.exe"
+Title1=Arhiva Modela
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Arhiva modela|Package]
+PackageFolder=Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\Package
+ProjectFolder=Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela
+ServerSideCab=
+File1=Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\Package\setup.exe
+File2=Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\Package\Setup.Lst
+File3=Y:\Documents\Win dokumenti\Moji VB primjeri\Arhiva modela\Package\Arhiva modela RO.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
